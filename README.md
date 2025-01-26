@@ -40,12 +40,7 @@
 </b>
 </details>
 
-[![Deploy to Koyeb](
-<p>
-<a href="https://heroku.com/deploy?template=https://github.com/JishuDeveloper/Rename-Bot-4GB"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"> </a>
-</p>
-</b>
-</details>
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=rename-bot-4gb&repository=shammasikko%2FRename-Bot-4GB&branch=metadata&instance_type=free)
 
 ### 🥰 FEATURES
 
