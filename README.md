@@ -40,8 +40,7 @@
 </b>
 </details>
 
-href="https://app.koyeb.com/deploy?type=git&repository=github.com/JishuDeveloper/Auto-Rename-Bot&branch=main&name=auto-rename-bot" >
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=ogeva&repository=shammasikko%2FOGEva&branch=master&instance_type=free&env%5BADMINS%5D=6639622980&env%5BAPI_HASH%5D=bde5a81c08ee3341ee953b714d297534&env%5BAPI_ID%5D=27326387&env%5BAUTH_CHANNEL%5D=-1002063643170&env%5BAUTH_GROUPS%5D=False&env%5BBOT_TOKEN%5D=7422485332%3AAAFN3TdvIfpVLvPqYO0GkESV5NmXzBGIIt4&env%5BCHANNELS%5D=-1002289968818&env%5BCOLLECTION_NAME%5D=files&env%5BDATABASE_NAME%5D=name&env%5BDATABASE_URI%5D=mongodb%2Bsrv%3A%2F%2Fshammas%3Ashammas%40cluster0.hdjsx.mongodb.net%2F%3FretryWrites%3Dtrue%26w%3Dmajority%26appName%3DCluster0&env%5BFILE_STORE_CHANNEL%5D=-1002289968818&env%5BIMDB%5D=False&env%5BLOG_CHANNEL%5D=-1002458322893&env%5BPICS%5D=https%3A%2F%2Fgraph.org%2Ffile%2F3c3304870ebb2e49078cb-dd0574c059246e2ba7.jpg&env%5BP_TTI_SHOW_OFF%5D=True&env%5BSINGLE_BUTTON%5D=True)
 
 
 ### 🥰 FEATURES
